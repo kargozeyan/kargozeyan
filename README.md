@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋 I'm Karen
 
 <!--
 **karrgozeyan/karrgozeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:heart: Loves Java & Wayland <br/>
+:penguin: Linux Enthusiast <br/>
+:microscope: Working on a new fork of [Qtile](https://github.com/qtile/qtile) <br/>
+:crab: Learning Rust <br/>
+:brain: Planning to create a Wayland Compositor in Rust
