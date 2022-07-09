@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 :penguin: Linux Enthusiast <br/>
 :microscope: Working on a new fork of [Qtile](https://github.com/qtile/qtile) <br/>
 :crab: Learning Rust <br/>
-:brain: Planning to create a Wayland Compositor in Rust
+:brain: Planning to create a Wayland Compositor in Rust <br />
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karrgozeyan&show_icons=true&theme=github_dark)
