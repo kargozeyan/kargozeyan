@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 :brain: Planning to create a Wayland Compositor in Rust <br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karrgozeyan&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kargozeyan&show_icons=true&theme=github_dark)
